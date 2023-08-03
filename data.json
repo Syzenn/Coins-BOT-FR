@@ -1,0 +1,15 @@
+{
+    "users": {
+      "USER_ID_1": {
+        "balance": 1000
+      },
+      "USER_ID_2": {
+        "balance": 500
+      },
+      "USER_ID_3": {
+        "balance": 2000
+      }
+      // Ajoutez plus d'utilisateurs si nécessaire
+    }
+  }
+  
